@@ -62,7 +62,7 @@ sudo bash reset.sh
 ## Known Limitations
 - Cannot detect nmap T0/T1 timing (too slow for capture window)
 - Bash based, not suitable for production environments
-- iptables rules lost on reboot
+
 
 ## What I Learned
 - Packet capture and analysis using tcpdump
